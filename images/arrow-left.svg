@@ -1,0 +1,17 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Arrow">
+<g id="Ellipse 5" filter="url(#filter0_b_79_50)">
+<circle cx="22" cy="22" r="22" fill="#FAF4EA" fill-opacity="0.7"/>
+<circle cx="22" cy="22" r="21.6159" stroke="#31261A" stroke-width="0.768227"/>
+</g>
+<path id="Arrow 1" d="M12.2929 21.2929C11.9024 21.6834 11.9024 22.3166 12.2929 22.7071L18.6569 29.0711C19.0474 29.4616 19.6805 29.4616 20.0711 29.0711C20.4616 28.6805 20.4616 28.0474 20.0711 27.6569L14.4142 22L20.0711 16.3431C20.4616 15.9526 20.4616 15.3195 20.0711 14.9289C19.6805 14.5384 19.0474 14.5384 18.6569 14.9289L12.2929 21.2929ZM13 23L29.7619 23L29.7619 21L13 21L13 23Z" fill="#31261A"/>
+</g>
+<defs>
+<filter id="filter0_b_79_50" x="-15.3645" y="-15.3645" width="74.7291" height="74.7291" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="7.68227"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_79_50"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_79_50" result="shape"/>
+</filter>
+</defs>
+</svg>
